@@ -1,0 +1,17 @@
+# RPG Maker MV saves
+save/
+*.rpgsave
+
+# Deployment output
+dist/
+deploy/
+build/
+
+# Node dependencies
+node_modules/
+
+# Logs / temporary files
+*.log
+*.tmp
+*.bak
+*~
